@@ -1,0 +1,10 @@
+D:\VisualStudio\fernanda\PracticaParcial1\VistaConsola\bin\Debug\VistaConsola.exe.config
+D:\VisualStudio\fernanda\PracticaParcial1\VistaConsola\bin\Debug\VistaConsola.exe
+D:\VisualStudio\fernanda\PracticaParcial1\VistaConsola\bin\Debug\VistaConsola.pdb
+D:\VisualStudio\fernanda\PracticaParcial1\VistaConsola\bin\Debug\PracticaParcial1.dll
+D:\VisualStudio\fernanda\PracticaParcial1\VistaConsola\bin\Debug\PracticaParcial1.pdb
+D:\VisualStudio\fernanda\PracticaParcial1\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+D:\VisualStudio\fernanda\PracticaParcial1\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+D:\VisualStudio\fernanda\PracticaParcial1\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+D:\VisualStudio\fernanda\PracticaParcial1\VistaConsola\obj\Debug\VistaConsola.exe
+D:\VisualStudio\fernanda\PracticaParcial1\VistaConsola\obj\Debug\VistaConsola.pdb

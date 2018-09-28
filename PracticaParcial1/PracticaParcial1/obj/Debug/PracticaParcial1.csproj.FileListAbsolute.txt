@@ -1,0 +1,6 @@
+D:\VisualStudio\fernanda\PracticaParcial1\PracticaParcial1\bin\Debug\PracticaParcial1.dll
+D:\VisualStudio\fernanda\PracticaParcial1\PracticaParcial1\bin\Debug\PracticaParcial1.pdb
+D:\VisualStudio\fernanda\PracticaParcial1\PracticaParcial1\obj\Debug\PracticaParcial1.csprojAssemblyReference.cache
+D:\VisualStudio\fernanda\PracticaParcial1\PracticaParcial1\obj\Debug\PracticaParcial1.csproj.CoreCompileInputs.cache
+D:\VisualStudio\fernanda\PracticaParcial1\PracticaParcial1\obj\Debug\PracticaParcial1.dll
+D:\VisualStudio\fernanda\PracticaParcial1\PracticaParcial1\obj\Debug\PracticaParcial1.pdb
