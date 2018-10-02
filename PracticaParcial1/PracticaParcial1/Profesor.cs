@@ -17,7 +17,7 @@ namespace PracticaParcial1
             get
             {
                 DateTime fechaActual = DateTime.Now;
-                TimeSpan retorno = fechaIngreso - fechaActual;
+                TimeSpan retorno = fechaActual - fechaIngreso;
                 int dias = (int)retorno.TotalDays;
                 return dias;
             }
@@ -31,11 +31,11 @@ namespace PracticaParcial1
         }
 
         public override bool ValidarDocumentacion(string doc)
-        {     
+        {
             if (doc.Length == 9)
             {
                 for (int i = 0; i < doc.Length; i++)
-                { 
+                {
                     if (int.TryParse(doc, out int resultado))
                     {
                         return true;
@@ -44,11 +44,11 @@ namespace PracticaParcial1
             }
             return false;
         }
-public override string ExponerDatos()
-{
-    StringBuilder retorno = new StringBuilder();
-    retorno.AppendFormat("{1}, {2}, Antiguedad en dias: {3}", base.ExponerDatos(), this.fechaIngreso, Antiguedad);
-    return retorno.ToString();
-}
+        public override string ExponerDatos()
+        {
+            StringBuilder retorno = new StringBuilder();
+            retorno.AppendFormat("{0},\n{1}, Antiguedad en dias: {2}", base.ExponerDatos(), this.fechaIngreso, Antiguedad);
+            return retorno.ToString();
+        }
     }
 }

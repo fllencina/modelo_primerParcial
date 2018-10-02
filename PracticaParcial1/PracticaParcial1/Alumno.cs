@@ -32,26 +32,16 @@ namespace PracticaParcial1
         //metodos
         public override bool ValidarDocumentacion(string doc)
         {
-            int cont = 0;
-            if (doc.Length == 9)
+            if (doc.Length == 9 && doc[2] == '-' && doc[7] == '-')
             {
+                doc = doc.Replace("-", "");
                 for (int i = 0; i < doc.Length; i++)
                 {
-                    if(doc[i]=='-' && (i==2 || i==4))
-                    {
-                        cont++;
-                        if(cont==2)
-                        {
-                            string auxiliar = doc;
-                            auxiliar.Replace("-", "");
-                            if(int.TryParse(auxiliar, out int resultado))
-                            {                    
-                                return true;
-                            }
-                        }   
-                    }
+                    if (doc[i] < '0' || doc[i] > '9')
+                        return false;
                 }
-            }    
+                return true;
+            }
             return false;
         }
         public override string ExponerDatos()

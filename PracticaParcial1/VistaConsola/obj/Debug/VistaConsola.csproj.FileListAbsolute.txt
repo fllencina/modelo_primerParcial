@@ -8,3 +8,13 @@ D:\VisualStudio\fernanda\PracticaParcial1\VistaConsola\obj\Debug\VistaConsola.cs
 D:\VisualStudio\fernanda\PracticaParcial1\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
 D:\VisualStudio\fernanda\PracticaParcial1\VistaConsola\obj\Debug\VistaConsola.exe
 D:\VisualStudio\fernanda\PracticaParcial1\VistaConsola\obj\Debug\VistaConsola.pdb
+C:\Users\Fernanda\Desktop\modelo_primerParcial-master\modelo_primerParcial-master\PracticaParcial1\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\Fernanda\Desktop\modelo_primerParcial-master\modelo_primerParcial-master\PracticaParcial1\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\Fernanda\Desktop\modelo_primerParcial-master\modelo_primerParcial-master\PracticaParcial1\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\Fernanda\Desktop\modelo_primerParcial-master\modelo_primerParcial-master\PracticaParcial1\VistaConsola\bin\Debug\PracticaParcial1.dll
+C:\Users\Fernanda\Desktop\modelo_primerParcial-master\modelo_primerParcial-master\PracticaParcial1\VistaConsola\bin\Debug\PracticaParcial1.pdb
+C:\Users\Fernanda\Desktop\modelo_primerParcial-master\modelo_primerParcial-master\PracticaParcial1\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\Fernanda\Desktop\modelo_primerParcial-master\modelo_primerParcial-master\PracticaParcial1\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\modelo_primerParcial-master\modelo_primerParcial-master\PracticaParcial1\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Users\Fernanda\Desktop\modelo_primerParcial-master\modelo_primerParcial-master\PracticaParcial1\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\Fernanda\Desktop\modelo_primerParcial-master\modelo_primerParcial-master\PracticaParcial1\VistaConsola\obj\Debug\VistaConsola.pdb

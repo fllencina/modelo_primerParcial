@@ -1,0 +1,13 @@
+C:\Users\Fernanda\Desktop\modelo_primerParcial-master\modelo_primerParcial-master\PracticaParcial1\Vista formulario\bin\Debug\Vista formulario.exe.config
+C:\Users\Fernanda\Desktop\modelo_primerParcial-master\modelo_primerParcial-master\PracticaParcial1\Vista formulario\bin\Debug\Vista formulario.exe
+C:\Users\Fernanda\Desktop\modelo_primerParcial-master\modelo_primerParcial-master\PracticaParcial1\Vista formulario\bin\Debug\Vista formulario.pdb
+C:\Users\Fernanda\Desktop\modelo_primerParcial-master\modelo_primerParcial-master\PracticaParcial1\Vista formulario\bin\Debug\PracticaParcial1.dll
+C:\Users\Fernanda\Desktop\modelo_primerParcial-master\modelo_primerParcial-master\PracticaParcial1\Vista formulario\bin\Debug\PracticaParcial1.pdb
+C:\Users\Fernanda\Desktop\modelo_primerParcial-master\modelo_primerParcial-master\PracticaParcial1\Vista formulario\obj\Debug\Vista formulario.csprojAssemblyReference.cache
+C:\Users\Fernanda\Desktop\modelo_primerParcial-master\modelo_primerParcial-master\PracticaParcial1\Vista formulario\obj\Debug\Vista_formulario.frmVista.resources
+C:\Users\Fernanda\Desktop\modelo_primerParcial-master\modelo_primerParcial-master\PracticaParcial1\Vista formulario\obj\Debug\Vista_formulario.Properties.Resources.resources
+C:\Users\Fernanda\Desktop\modelo_primerParcial-master\modelo_primerParcial-master\PracticaParcial1\Vista formulario\obj\Debug\Vista formulario.csproj.GenerateResource.cache
+C:\Users\Fernanda\Desktop\modelo_primerParcial-master\modelo_primerParcial-master\PracticaParcial1\Vista formulario\obj\Debug\Vista formulario.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\modelo_primerParcial-master\modelo_primerParcial-master\PracticaParcial1\Vista formulario\obj\Debug\Vista formulario.csproj.CopyComplete
+C:\Users\Fernanda\Desktop\modelo_primerParcial-master\modelo_primerParcial-master\PracticaParcial1\Vista formulario\obj\Debug\Vista formulario.exe
+C:\Users\Fernanda\Desktop\modelo_primerParcial-master\modelo_primerParcial-master\PracticaParcial1\Vista formulario\obj\Debug\Vista formulario.pdb

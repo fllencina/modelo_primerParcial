@@ -26,34 +26,36 @@ namespace PracticaParcial1
         //constructores
         private Curso()
         {
-             alumnos = new List<Alumno>();
+            alumnos = new List<Alumno>();
         }
-        public Curso(short anio, Divisiones division,Profesor profesor):this()
+        public Curso(short anio, Divisiones division, Profesor profesor) : this()
         {
             this.anio = anio;
             this.division = division;
             this.profesor = profesor;
         }
         //sobrecargas
-        public static explicit operator string (Curso c)
+        public static explicit operator string(Curso c)
         {
             StringBuilder Datos = new StringBuilder();
-            Datos.AppendFormat("Curso {0}\n", c.AnioDivision);
-            foreach(Alumno a in  c.alumnos)
+            Datos.AppendFormat("Curso {0}\nAlumnos inscriptos: \n", c.AnioDivision);
+
+            foreach (Alumno a in c.alumnos)
             {
                 Datos.AppendFormat("{0}\n", a.ExponerDatos());
             }
             return Datos.ToString();
         }
-        public static bool operator == (Curso c, Alumno a)
+        public static bool operator ==(Curso c, Alumno a)
         {
-
-                 if (a.AnioDivision == c.AnioDivision)      
-                     return true;
-            
-            
+            if (a.ValidarDocumentacion(a.Documento))
+            {
+                if (a.AnioDivision == c.AnioDivision)
+                {
+                    return true;
+                }
+            }
             return false;
-            
         }
         public static bool operator !=(Curso c, Alumno a)
         {
@@ -61,10 +63,9 @@ namespace PracticaParcial1
         }
         public static Curso operator +(Curso c, Alumno a)
         {
-            
-            if (c==a)
+            if (c == a)
             {
-                 c.alumnos.Add(a); 
+                c.alumnos.Add(a);
             }
             return c;
         }
